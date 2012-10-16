@@ -9,7 +9,7 @@
 	 * 10/16/2012
 	 */
 
-	/* These constants can be replaced by any configuration your app needs to do. This just contains all the information
+  /* These constants can be replaced by any configuration your app needs to do. This just contains all the information
    * you need to connect to the web service and authenticate. */
   define("STORE_DOMAIN", "mystore.americommerce.com");
   define("API_USERNAME", "UserName");
